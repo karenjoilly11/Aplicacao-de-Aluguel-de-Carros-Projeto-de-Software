@@ -1,6 +1,6 @@
 # 🚗 Aluguel de Carros - Projeto de Software
 
-Sistema desenvolvido em **Java/Spring Boot** utilizando arquitetura **MVC**. O projeto contempla o gerenciamento completo de locações, incluindo CRUD de clientes com validação de rendimentos, autenticação de usuários (Clientes/Agentes) e fluxo de análise financeira, seguindo padrões de Engenharia de Software e modelagem UML.
+Sistema desenvolvido em **Java/Micronaut** utilizando arquitetura **MVC**. O projeto contempla o gerenciamento completo de locações, incluindo CRUD de clientes com validação de rendimentos, autenticação de usuários (Clientes/Agentes) e fluxo de análise financeira, seguindo padrões de Engenharia de Software e modelagem UML.
 
 ---
 
